@@ -1,0 +1,25 @@
+
+/* border image description hipertext 1 */
+#description img {
+  border-radius: 28px;
+}
+
+/* border imagelist One */
+aside #cardtravelone img {
+  border-radius: 28px;
+}
+/* border imagelist Two */
+aside #cardtraveltwo img {
+  border-radius: 28px;
+}
+/* border imagelist Tree */
+aside #cardtraveltree img {
+  border-radius: 28px;
+}
+
+
+#page {
+  width: 1120px;
+  margin: 88px auto;
+  background-color: rgb(197, 197, 197);
+}
