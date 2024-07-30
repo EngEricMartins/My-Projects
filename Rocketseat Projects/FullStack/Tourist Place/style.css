@@ -99,9 +99,6 @@ p {
   font-weight: normal;
 }
 
- {
-  text-align: center;
-}
 
 ul {
   font-weight: bold;
@@ -121,4 +118,8 @@ ul #family {
 
 ul #budget {
   color: #E95E10;
+}
+
+li {
+  margin-left: 30px;
 }
