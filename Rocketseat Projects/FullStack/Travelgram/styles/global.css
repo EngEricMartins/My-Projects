@@ -27,3 +27,23 @@ body {
   color:var(--text-color-secundary);
   background-color: var(--background-color);
 }
+
+a {
+  color: inherit; /* valor inherit = erdar a cor secundaria  */
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--brand-color);
+  text-decoration: underline;
+}
+
+.bg-surface-color {
+  background-color: var(--surface-color);
+}
+
+.container {
+  padding-inline: 32px; /*inline significa nas laterais  */
+  margin-inline: auto;
+  max-width: 1280px;
+}
