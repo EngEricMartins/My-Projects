@@ -1,10 +1,10 @@
-.skeleton-color {
+.images {
   display: flex;
   flex-wrap: wrap;
   gap: 24px;
   padding-block: 24px;
 }
-.skeleton-color img {
+.images img {
   width: 286px;
   height: 286px;
   object-fit: cover;
