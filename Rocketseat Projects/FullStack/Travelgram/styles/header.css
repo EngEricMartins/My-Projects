@@ -42,5 +42,7 @@ header ul {
 header ul span {
   display: flex;
   gap: 8px;
+  font-size: 14px;
+  line-height: 170%;
 }
 

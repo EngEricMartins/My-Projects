@@ -5,7 +5,7 @@ nav {
   line-height: 0;
   padding-block: 20px;
   max-width: 1280px;
-
+  color: var(--text-color-secundary);
 }
 
 nav ul {
@@ -19,5 +19,10 @@ nav ul {
 nav ul li:last-child img {
   width: 40px;
   height: 40px;
+}
+
+nav ul a {
+  font-size: 16px;
+  line-height: 150%;
 }
 
